@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @felix-D2
-- 👀 I’m interested in Frontend and microcontrollers programming
-- 🌱 I’m currently learning html, css and JavaScript
+- 👋 Hello, I’m @felix-D2
+- 👀 I’m interested in front-end development and microcontrollers programming
+- 🌱 I’m currently learning C, html, css, JavaScript and Vue.js
 
 
 <!---
