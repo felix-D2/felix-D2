@@ -6,6 +6,7 @@
 My projects : 
 - https://felix-d2.github.io/sunnyside-agency-landing-page-main/
 - https://felix-d2.github.io/Tip-calculator-app/
+- https://space-tourism-website-felix.netlify.app/
 
 <!---
 felix-D2/felix-D2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
